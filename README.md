@@ -10,7 +10,7 @@
 
 ## Objectives
 
-With this project I have learned how to correctly use basic HTML, and prepared myself to continue learning.
+With this project I have learned how to correctly use basic HTML and css, preparing myself to continue learning.
 
 ---
 
@@ -20,6 +20,9 @@ With this project I have learned how to correctly use basic HTML, and prepared m
 - Use of lists (ol/ul)
 - Use of headings to structure pages 
 - File organization
+- use of div elemets for page structure
+- use of class selectors to applay color, background color, font, font size and manage boxes
+
 
 ## Technologies Used
 
